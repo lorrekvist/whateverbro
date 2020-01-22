@@ -1,0 +1,10 @@
+Made super basic login system. It worked. Refactored code to allow same login method to work for both admin and regular users.
+
+Will remake with simple DB later.
+
+Tested login with incorrect information. Works as intended.
+
+Created register method that adds to the arraylist of reg-users.
+Tested to create and login, works as intended.
+
+Reworked login to use way less code, combining checks.
